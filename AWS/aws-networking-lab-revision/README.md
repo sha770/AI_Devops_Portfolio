@@ -56,7 +56,7 @@ The private EC2 can access the internet for updates and downloads while remainin
 
 ## Architecture Diagram
 
-![Architecture Diagram](Acrhitecture.png)
+![Architecture Diagram](Architecture.png)
 
 ---
 
