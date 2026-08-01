@@ -2,7 +2,7 @@
 
 The following architecture represents a production-style secure web application deployment on AWS.
 
-Architecture.png
+![Project Architecture](Architecture.png)
 
 ---
 
